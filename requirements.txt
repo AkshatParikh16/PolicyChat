@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+sentence-transformers
+pinecone
+rank-bm25
+pandas
+pydantic
+langchain
+langchain-community
+scikit-learn
+python-dotenv
+pdfplumber
+python-docx
+httpx
+torch
